@@ -97,6 +97,13 @@ Supporting libraries and shared configuration used across the platform.
 [![Issues](https://img.shields.io/github/issues/TransactionProcessing/EstateReportingAPI)](https://github.com/TransactionProcessing/EstateReportingAPI/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/TransactionProcessing/EstateReportingAPI)](https://github.com/TransactionProcessing/EstateReportingAPI/pulls)
 
+### [Subscription Service](https://github.com/TransactionProcessing/SubscriptionService)
+[![Latest Tag](https://img.shields.io/github/v/tag/TransactionProcessing/SubscriptionService)](https://github.com/TransactionProcessing/SubscriptionService)
+[![Issues](https://img.shields.io/github/issues/TransactionProcessing/SubscriptionService)](https://github.com/TransactionProcessing/SubscriptionService/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/TransactionProcessing/SubscriptionService)](https://github.com/TransactionProcessing/SubscriptionService/pulls)
+
+---
+
 ## Transaction Processing
 
 Core transaction workflow services and adapters.
