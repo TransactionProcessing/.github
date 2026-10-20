@@ -99,7 +99,7 @@ Supporting libraries and shared configuration used across the platform.
 
 ### [Subscription Service](https://github.com/TransactionProcessing/SubscriptionService)
 [![Latest Tag](https://img.shields.io/github/v/tag/TransactionProcessing/SubscriptionService)](https://github.com/TransactionProcessing/SubscriptionService)
-[![Coverage](https://img.shields.io/badge/Coverage-Not%20Available-lightgrey)](https://github.com/TransactionProcessing/SubscriptionService)
+[![Coverage](https://app.codacy.com/project/badge/Coverage/24aa5a50037b4751987a555e281a8255)](https://app.codacy.com/gh/TransactionProcessing/SubscriptionService/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_coverage)
 [![Quality](https://app.codacy.com/project/badge/Grade/24aa5a50037b4751987a555e281a8255)](https://app.codacy.com/gh/TransactionProcessing/SubscriptionService/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Issues](https://img.shields.io/github/issues/TransactionProcessing/SubscriptionService)](https://github.com/TransactionProcessing/SubscriptionService/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/TransactionProcessing/SubscriptionService)](https://github.com/TransactionProcessing/SubscriptionService/pulls)
